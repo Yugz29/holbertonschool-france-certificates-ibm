@@ -1,17 +1,17 @@
-# Holberton School France - IBM Certificates
+# 🐚 Holberton School France - IBM Certificates
 
-Bienvenue dans le dépôt **holbertonschool-france-certificates-ibm** ! 🎓
+Welcome to the **holbertonschool-france-certificates-ibm** repository! 🎓
 
-Ce dépôt regroupe l'ensemble des certificats obtenus dans le cadre de la formation **Holberton School France** en partenariat avec **IBM**.
+This repository contains all the certificates earned during the **Holberton School France** program in partnership with **IBM**.
 
 ---
 
-## Contenu du dépôt
+## Repository Contents
 
-`certificates-trimester-1/` :
+certificates-trimester-1 :
 
 - **Certification Open Source Software** ✅
-- **Agile Explorer** ✅
+- **Certification Agile Explorer** ✅
 
 ---
 
