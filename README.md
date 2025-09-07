@@ -13,5 +13,11 @@ certificates-trimester-1 :
 - **Certification Open Source Software** ✅
 - **Certification Agile Explorer** ✅
 
+
+certificates-trimester-2 :
+
+- **Certification SQL and Relational Databases 101** ✅
+- **Certification Project Management Fundamentals**
+
 ---
 
