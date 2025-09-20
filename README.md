@@ -17,7 +17,7 @@ certificates-trimester-1 :
 certificates-trimester-2 :
 
 - **Certification SQL and Relational Databases 101** ✅
-- **Certification Project Management Fundamentals**
+- **Certification Project Management Fundamentals** ✅
 
 ---
 
