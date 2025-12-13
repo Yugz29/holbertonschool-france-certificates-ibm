@@ -19,5 +19,11 @@ certificates-trimester-2 :
 - **Certification SQL and Relational Databases 101** ✅
 - **Certification Project Management Fundamentals** ✅
 
+
+certificates-trimester-3
+
+- **Certificate: Introduction to Cloud Computing**
+- **Certificate: Cybersecurity fundamentals**
+
 ---
 
