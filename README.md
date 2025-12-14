@@ -20,9 +20,9 @@ certificates-trimester-2 :
 - **Certification Project Management Fundamentals** ✅
 
 
-certificates-trimester-3
+certificates-trimester-3 :
 
-- **Certificate: Introduction to Cloud Computing**
+- **Certificate: Introduction to Cloud Computing** ✅
 - **Certificate: Cybersecurity fundamentals**
 
 ---
